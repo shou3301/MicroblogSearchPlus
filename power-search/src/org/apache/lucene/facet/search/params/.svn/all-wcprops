@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/params
+END
+CountFacetRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/params/CountFacetRequest.java
+END
+ScoreFacetRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/params/ScoreFacetRequest.java
+END
+FacetRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/params/FacetRequest.java
+END
+FacetSearchParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/params/FacetSearchParams.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/params/package.html
+END

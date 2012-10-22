@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/aggregator
+END
+Aggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/aggregator/Aggregator.java
+END
+ScoringAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/aggregator/ScoringAggregator.java
+END
+CountingAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/aggregator/CountingAggregator.java
+END
+ComplementCountingAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/aggregator/ComplementCountingAggregator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/aggregator/package.html
+END

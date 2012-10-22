@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/index/attributes
+END
+CategoryAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/index/attributes/CategoryAttribute.java
+END
+CategoryProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/index/attributes/CategoryProperty.java
+END
+CategoryAttributeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/index/attributes/CategoryAttributeImpl.java
+END
+CategoryAttributesIterable.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/index/attributes/CategoryAttributesIterable.java
+END
+OrdinalProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/index/attributes/OrdinalProperty.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/index/attributes/package.html
+END

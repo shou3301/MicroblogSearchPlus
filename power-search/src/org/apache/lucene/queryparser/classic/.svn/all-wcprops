@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1206229/lucene/dev/trunk/modules/queryparser/src/java/org/apache/lucene/queryparser/classic
+END
+QueryParserConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1145016/lucene/dev/trunk/modules/queryparser/src/java/org/apache/lucene/queryparser/classic/QueryParserConstants.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1145016/lucene/dev/trunk/modules/queryparser/src/java/org/apache/lucene/queryparser/classic/Token.java
+END
+TokenMgrError.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1145016/lucene/dev/trunk/modules/queryparser/src/java/org/apache/lucene/queryparser/classic/TokenMgrError.java
+END
+MultiFieldQueryParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1145016/lucene/dev/trunk/modules/queryparser/src/java/org/apache/lucene/queryparser/classic/MultiFieldQueryParser.java
+END
+QueryParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1145016/lucene/dev/trunk/modules/queryparser/src/java/org/apache/lucene/queryparser/classic/QueryParser.java
+END
+QueryParser.jj
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1145016/lucene/dev/trunk/modules/queryparser/src/java/org/apache/lucene/queryparser/classic/QueryParser.jj
+END
+FastCharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1145016/lucene/dev/trunk/modules/queryparser/src/java/org/apache/lucene/queryparser/classic/FastCharStream.java
+END
+CharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1145016/lucene/dev/trunk/modules/queryparser/src/java/org/apache/lucene/queryparser/classic/CharStream.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1176191/lucene/dev/trunk/modules/queryparser/src/java/org/apache/lucene/queryparser/classic/ParseException.java
+END
+QueryParserBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1206229/lucene/dev/trunk/modules/queryparser/src/java/org/apache/lucene/queryparser/classic/QueryParserBase.java
+END
+QueryParserTokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1145016/lucene/dev/trunk/modules/queryparser/src/java/org/apache/lucene/queryparser/classic/QueryParserTokenManager.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1145016/lucene/dev/trunk/modules/queryparser/src/java/org/apache/lucene/queryparser/classic/package.html
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/util/collections
+END
+FloatIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/util/collections/FloatIterator.java
+END
+ArrayHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/util/collections/ArrayHashMap.java
+END
+IntToObjectMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/util/collections/IntToObjectMap.java
+END
+ObjectToIntMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/util/collections/ObjectToIntMap.java
+END
+DoubleIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/util/collections/DoubleIterator.java
+END
+IntIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/util/collections/IntIterator.java
+END
+LRUHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/util/collections/LRUHashMap.java
+END
+IntToDoubleMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/util/collections/IntToDoubleMap.java
+END
+IntToIntMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/util/collections/IntToIntMap.java
+END
+IntArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/util/collections/IntArray.java
+END
+IntHashSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/util/collections/IntHashSet.java
+END
+FloatToObjectMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/util/collections/FloatToObjectMap.java
+END
+ObjectToFloatMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/util/collections/ObjectToFloatMap.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/util/collections/package.html
+END

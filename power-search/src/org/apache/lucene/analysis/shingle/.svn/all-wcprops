@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1175297/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/shingle
+END
+ShingleFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1104519/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/shingle/ShingleFilter.java
+END
+ShingleAnalyzerWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1175297/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/shingle/ShingleAnalyzerWrapper.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/shingle/package.html
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1181760/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/util
+END
+ScoredDocIdsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1143415/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/util/ScoredDocIdsUtils.java
+END
+ResultSortUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/util/ResultSortUtils.java
+END
+PartitionsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/util/PartitionsUtils.java
+END
+MultiCategoryListIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/util/MultiCategoryListIterator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/util/package.html
+END

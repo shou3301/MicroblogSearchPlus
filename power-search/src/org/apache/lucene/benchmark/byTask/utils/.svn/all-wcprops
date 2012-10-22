@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1175475/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/utils
+END
+FileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1054995/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/utils/FileUtils.java
+END
+StringBuilderReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1067359/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/utils/StringBuilderReader.java
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1054995/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/utils/Config.java
+END
+Algorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1083731/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/utils/Algorithm.java
+END
+Format.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1054995/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/utils/Format.java
+END
+StreamUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1175475/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/utils/StreamUtils.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1054995/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/utils/package.html
+END

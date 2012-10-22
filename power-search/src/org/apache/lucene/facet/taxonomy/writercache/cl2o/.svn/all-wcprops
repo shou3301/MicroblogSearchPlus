@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/taxonomy/writercache/cl2o
+END
+Cl2oTaxonomyWriterCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/taxonomy/writercache/cl2o/Cl2oTaxonomyWriterCache.java
+END
+CompactLabelToOrdinal.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/taxonomy/writercache/cl2o/CompactLabelToOrdinal.java
+END
+CharBlockArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/taxonomy/writercache/cl2o/CharBlockArray.java
+END
+CollisionMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/taxonomy/writercache/cl2o/CollisionMap.java
+END
+LabelToOrdinal.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/taxonomy/writercache/cl2o/LabelToOrdinal.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/taxonomy/writercache/cl2o/package.html
+END

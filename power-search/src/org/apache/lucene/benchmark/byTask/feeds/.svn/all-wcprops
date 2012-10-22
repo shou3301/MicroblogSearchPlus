@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1245583/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds
+END
+ReutersQueryMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1145016/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/ReutersQueryMaker.java
+END
+DocData.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1054995/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/DocData.java
+END
+FacetSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1180674/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/FacetSource.java
+END
+TrecFTParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1097216/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/TrecFTParser.java
+END
+RandomFacetSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1180674/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/RandomFacetSource.java
+END
+NoMoreDataException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1054995/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/NoMoreDataException.java
+END
+TrecContentSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1180674/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/TrecContentSource.java
+END
+AbstractQueryMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1054995/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/AbstractQueryMaker.java
+END
+DirContentSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1054995/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/DirContentSource.java
+END
+ContentSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1180674/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/ContentSource.java
+END
+EnwikiQueryMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1145016/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/EnwikiQueryMaker.java
+END
+ContentItemsSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1204851/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/ContentItemsSource.java
+END
+SimpleQueryMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1145016/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/SimpleQueryMaker.java
+END
+TrecDocParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1097216/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/TrecDocParser.java
+END
+EnwikiContentSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1084929/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/EnwikiContentSource.java
+END
+ReutersContentSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1054995/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/ReutersContentSource.java
+END
+TrecGov2Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1067359/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/TrecGov2Parser.java
+END
+SimpleSloppyPhraseQueryMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1054995/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/SimpleSloppyPhraseQueryMaker.java
+END
+TrecFBISParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1097216/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/TrecFBISParser.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1054995/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/package.html
+END
+TrecFR94Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1097216/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/TrecFR94Parser.java
+END
+HTMLParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1067359/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/HTMLParser.java
+END
+TrecParserByPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1097216/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/TrecParserByPath.java
+END
+LongToEnglishQueryMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1226871/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/LongToEnglishQueryMaker.java
+END
+SortableSingleDocSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1054995/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/SortableSingleDocSource.java
+END
+FileBasedQueryMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1145016/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/FileBasedQueryMaker.java
+END
+QueryMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1054995/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/QueryMaker.java
+END
+DocMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1245583/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/DocMaker.java
+END
+DemoHTMLParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1072250/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/DemoHTMLParser.java
+END
+SingleDocSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1054995/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/SingleDocSource.java
+END
+LongToEnglishContentSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1226871/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/LongToEnglishContentSource.java
+END
+TrecLATimesParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1097216/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/TrecLATimesParser.java
+END
+LineDocSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1084929/lucene/dev/trunk/modules/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/LineDocSource.java
+END

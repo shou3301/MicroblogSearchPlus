@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1242497/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/core
+END
+KeywordTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1075210/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/core/KeywordTokenizer.java
+END
+LowerCaseTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1098871/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/core/LowerCaseTokenizer.java
+END
+SimpleAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1175297/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/core/SimpleAnalyzer.java
+END
+WhitespaceAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1175297/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/core/WhitespaceAnalyzer.java
+END
+WhitespaceTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1098871/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/core/WhitespaceTokenizer.java
+END
+TypeTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1240034/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/core/TypeTokenFilter.java
+END
+KeywordAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1175297/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/core/KeywordAnalyzer.java
+END
+LetterTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1098871/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/core/LetterTokenizer.java
+END
+LowerCaseFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1098871/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/core/LowerCaseFilter.java
+END
+StopAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1242497/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/core/StopAnalyzer.java
+END
+StopFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1242497/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/core/StopFilter.java
+END

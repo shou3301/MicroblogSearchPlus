@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1245583/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/taxonomy
+END
+TaxonomyReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1242903/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/taxonomy/TaxonomyReader.java
+END
+CategoryPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/taxonomy/CategoryPath.java
+END
+TaxonomyWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1196963/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/taxonomy/TaxonomyWriter.java
+END
+InconsistentTaxonomyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1202754/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/taxonomy/InconsistentTaxonomyException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/taxonomy/package.html
+END

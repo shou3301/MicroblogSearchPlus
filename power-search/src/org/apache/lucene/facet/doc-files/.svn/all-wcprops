@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1226236/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/doc-files
+END
+userguide.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1226236/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/doc-files/userguide.html
+END
+prettify.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1226236/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/doc-files/prettify.js
+END
+prettify.css
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1226236/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/doc-files/prettify.css
+END

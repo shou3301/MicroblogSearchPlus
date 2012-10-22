@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1291434/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/standard
+END
+StandardTokenizerImpl.jflex
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1177723/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/standard/StandardTokenizerImpl.jflex
+END
+StandardFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1040463/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/standard/StandardFilter.java
+END
+StandardAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1242497/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/standard/StandardAnalyzer.java
+END
+UAX29URLEmailTokenizerImpl.jflex
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1177723/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/standard/UAX29URLEmailTokenizerImpl.jflex
+END
+StandardTokenizerInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1154005/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/standard/StandardTokenizerInterface.java
+END
+ClassicTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1242890/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/standard/ClassicTokenizer.java
+END
+StandardTokenizerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1177723/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/standard/StandardTokenizerImpl.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1043071/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/standard/package.html
+END
+UAX29URLEmailTokenizerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1177723/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/standard/UAX29URLEmailTokenizerImpl.java
+END
+ASCIITLD.jflex-macro
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1154936/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/standard/ASCIITLD.jflex-macro
+END
+READ_BEFORE_REGENERATING.txt
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1043071/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/standard/READ_BEFORE_REGENERATING.txt
+END
+ClassicTokenizerImpl.jflex
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1177723/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/standard/ClassicTokenizerImpl.jflex
+END
+ClassicFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1002032/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/standard/ClassicFilter.java
+END
+ClassicAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1242497/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/standard/ClassicAnalyzer.java
+END
+StandardTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1242890/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/standard/StandardTokenizer.java
+END
+UAX29URLEmailTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1154943/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/standard/UAX29URLEmailTokenizer.java
+END
+SUPPLEMENTARY.jflex-macro
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1177723/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/standard/SUPPLEMENTARY.jflex-macro
+END
+ClassicTokenizerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1177723/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/standard/ClassicTokenizerImpl.java
+END

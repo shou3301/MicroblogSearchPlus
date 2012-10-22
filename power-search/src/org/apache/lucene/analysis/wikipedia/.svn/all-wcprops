@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1234850/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/wikipedia
+END
+WikipediaTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1234850/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/wikipedia/WikipediaTokenizer.java
+END
+WikipediaTokenizerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1234850/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/wikipedia/WikipediaTokenizerImpl.java
+END
+WikipediaTokenizerImpl.jflex
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1234850/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/wikipedia/WikipediaTokenizerImpl.jflex
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/wikipedia/package.html
+END

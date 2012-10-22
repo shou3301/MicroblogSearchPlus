@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1238085/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search
+END
+TopKFacetResultsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/TopKFacetResultsHandler.java
+END
+FacetResultsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/FacetResultsHandler.java
+END
+PayloadIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1231794/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/PayloadIterator.java
+END
+FacetArrays.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/FacetArrays.java
+END
+ScoredDocIDs.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/ScoredDocIDs.java
+END
+FloatArrayAllocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/FloatArrayAllocator.java
+END
+FacetsAccumulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1238085/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/FacetsAccumulator.java
+END
+TotalFacetCountsCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/TotalFacetCountsCache.java
+END
+TemporaryObjectAllocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/TemporaryObjectAllocator.java
+END
+SamplingWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/SamplingWrapper.java
+END
+PayloadIntDecodingIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/PayloadIntDecodingIterator.java
+END
+FacetsCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1238085/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/FacetsCollector.java
+END
+Heap.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/Heap.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/package.html
+END
+ScoredDocIDsIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/ScoredDocIDsIterator.java
+END
+TotalFacetCounts.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/TotalFacetCounts.java
+END
+CategoryListIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/CategoryListIterator.java
+END
+AdaptiveFacetsAccumulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1181760/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/AdaptiveFacetsAccumulator.java
+END
+StandardFacetsAccumulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/StandardFacetsAccumulator.java
+END
+ScoredDocIdCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1238085/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/ScoredDocIdCollector.java
+END
+TopKInEachNodeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/TopKInEachNodeHandler.java
+END
+IntArrayAllocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/IntArrayAllocator.java
+END
+DrillDown.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/DrillDown.java
+END

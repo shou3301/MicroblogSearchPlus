@@ -1,0 +1,31 @@
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mergeinfo
+V 3813
+/lucene/dev/branches/LUCENE2793/lucene/src/java/org/apache/lucene/index/codecs/preflex/TermInfosReaderIndex.java:1137551-1144189
+/lucene/dev/branches/branch_3x/lucene/core/src/java/org/apache/lucene/codecs/lucene3x/TermInfosReaderIndex.java:1244960
+/lucene/dev/branches/branch_3x/lucene/src/java/org/apache/lucene/codecs/lucene3x/TermInfosReaderIndex.java:1226235,1230429,1234450,1235713
+/lucene/dev/branches/branch_3x/lucene/src/java/org/apache/lucene/index/codecs/lucene3x/TermInfosReaderIndex.java:1198337,1199847,1204494,1204519,1204547,1204565,1204826,1207010,1208375
+/lucene/dev/branches/branch_3x/lucene/src/java/org/apache/lucene/index/codecs/preflex/TermInfosReaderIndex.java:943137,949730,957490,960490,961612,979161,980654,982195,987811,988512,1025544,1026614,1034080,1039151,1050654,1056762,1060014,1060438,1060784,1061035,1063880,1063934,1065324,1066771,1067699,1067764,1070818,1075044,1079376,1079381,1080071,1081052,1083240,1083534,1083726,1083789,1083812,1085811,1090423,1091501,1092373,1095519,1098770,1099210,1100407,1100480,1100494,1100515,1101106,1103086,1128215,1128227,1128462,1129419,1129435,1130612,1132581,1132978,1134823,1134917,1136714,1138351,1139430,1139461,1141060,1144653,1148611,1148849,1148864,1150434,1151830,1151947,1152766,1166791,1171384,1173311,1173701,1173745,1177994,1180637,1184955,1188805,1189914,1189969,1190293
+/lucene/dev/branches/bulkpostings/lucene/src/java/org/apache/lucene/index/codecs/preflex/TermInfosReaderIndex.java:1069647,1069925
+/lucene/dev/branches/docvalues/lucene/src/java/org/apache/lucene/index/codecs/preflex/TermInfosReaderIndex.java:1021634-1134288
+/lucene/dev/branches/lucene2621/lucene/src/java/org/apache/lucene/index/codecs/lucene3x/TermInfosReaderIndex.java:1188713-1196700,1197605-1199706,1199787-1202835
+/lucene/dev/branches/lucene2858/lucene/src/java/org/apache/lucene/codecs/lucene3x/TermInfosReaderIndex.java:1234440-1238051
+/lucene/dev/branches/lucene3661/lucene/src/java/org/apache/lucene/codecs/lucene3x/TermInfosReaderIndex.java:1233476-1237242,1237250-1238012
+/lucene/dev/branches/lucene_solr_3_1/lucene/src/java/org/apache/lucene/index/codecs/preflex/TermInfosReaderIndex.java:1081856,1083239,1085499,1085511,1085532,1085809,1101103
+/lucene/dev/branches/lucene_solr_3_2/lucene/src/java/org/apache/lucene/index/codecs/preflex/TermInfosReaderIndex.java:1128223,1128247,1129418,1129472
+/lucene/dev/branches/lucene_solr_3_3/lucene/src/java/org/apache/lucene/index/codecs/preflex/TermInfosReaderIndex.java:1138390,1138979,1139775
+/lucene/dev/branches/preflexfixes/lucene/src/java/org/apache/lucene/index/codecs/preflex/TermInfosReaderIndex.java:967125-979432
+/lucene/dev/branches/realtime_search/lucene/src/java/org/apache/lucene/index/codecs/preflex/TermInfosReaderIndex.java:953476-1097796
+/lucene/dev/branches/solr2452/lucene/src/java/org/apache/lucene/index/codecs/preflex/TermInfosReaderIndex.java:1087601-1144716
+/lucene/java/branches/flex_1458/src/java/org/apache/lucene/index/codecs/preflex/TermInfosReaderIndex.java:824912-931101
+/lucene/java/branches/lucene_2_4/src/java/org/apache/lucene/index/codecs/preflex/TermInfosReaderIndex.java:748824
+/lucene/java/branches/lucene_2_9/src/java/org/apache/lucene/index/codecs/preflex/TermInfosReaderIndex.java:817269-818600,829134,829881,831036,896850,909334,948516
+/lucene/java/branches/lucene_2_9_back_compat_tests/src/java/org/apache/lucene/index/codecs/preflex/TermInfosReaderIndex.java:818601-821336
+/lucene/java/branches/lucene_3_0/src/java/org/apache/lucene/index/codecs/preflex/TermInfosReaderIndex.java:880793,896906,1098765
+/lucene/java/trunk/src/java/org/apache/lucene/index/codecs/preflex/TermInfosReaderIndex.java:924483-924731,924781,925176-925462
+/lucene/solr/branches/newtrunk/lucene/src/java/org/apache/lucene/index/codecs/preflex/TermInfosReaderIndex.java:924462-924482
+END

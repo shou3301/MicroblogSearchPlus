@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1210176/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/sampling
+END
+SampleFixer.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/sampling/SampleFixer.java
+END
+Sampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1181760/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/sampling/Sampler.java
+END
+RandomSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1181760/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/sampling/RandomSampler.java
+END
+TakmiSampleFixer.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1210176/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/sampling/TakmiSampleFixer.java
+END
+RepeatableSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1181760/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/sampling/RepeatableSampler.java
+END
+SamplingAccumulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/sampling/SamplingAccumulator.java
+END
+SamplingParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/sampling/SamplingParams.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1141246/lucene/dev/trunk/modules/facet/src/java/org/apache/lucene/facet/search/sampling/package.html
+END

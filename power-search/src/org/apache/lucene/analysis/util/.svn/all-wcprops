@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1242497/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/util
+END
+OpenStringBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1130527/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/util/OpenStringBuilder.java
+END
+StopwordAnalyzerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1242497/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/util/StopwordAnalyzerBase.java
+END
+CharArrayIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1187900/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/util/CharArrayIterator.java
+END
+SegmentingTokenizerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1230748/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/util/SegmentingTokenizerBase.java
+END
+CharArraySet.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1040463/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/util/CharArraySet.java
+END
+CharTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1213329/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/util/CharTokenizer.java
+END
+CharArrayMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1098871/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/util/CharArrayMap.java
+END
+FilteringTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1145016/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/util/FilteringTokenFilter.java
+END
+StemmerUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1055892/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/util/StemmerUtil.java
+END
+CharacterUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1098871/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/util/CharacterUtils.java
+END
+WordlistLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1200111/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/util/WordlistLoader.java
+END

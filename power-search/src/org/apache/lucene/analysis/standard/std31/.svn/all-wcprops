@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1177723/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/standard/std31
+END
+StandardTokenizerImpl31.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1177723/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/standard/std31/StandardTokenizerImpl31.java
+END
+ASCIITLD.jflex-macro
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1154936/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/standard/std31/ASCIITLD.jflex-macro
+END
+UAX29URLEmailTokenizerImpl31.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1177723/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/standard/std31/UAX29URLEmailTokenizerImpl31.java
+END
+StandardTokenizerImpl31.jflex
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1177723/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/standard/std31/StandardTokenizerImpl31.jflex
+END
+UAX29URLEmailTokenizerImpl31.jflex
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1177723/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/standard/std31/UAX29URLEmailTokenizerImpl31.jflex
+END
+SUPPLEMENTARY.jflex-macro
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1154936/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/standard/std31/SUPPLEMENTARY.jflex-macro
+END
